@@ -1,7 +1,7 @@
 export default function Page() {
   return (
     <div>
-      MAIN PAAGE
+      MAIN PAAGE ammarin teingtrong
     </div>
   );
 }
